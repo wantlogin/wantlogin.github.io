@@ -17,7 +17,8 @@
       <pubDate>Tue, 21 Jul 2020 23:29:26 +0800</pubDate>
       
       <guid>https://wantlogin.github.io/post/hello/</guid>
-      <description>你好啊 我在测试</description>
+      <description>你好啊 我在测试
+hugo new site myblog 598 ls 599 cd myblog/ 600 ls 601 ls 602 cd themes/ 603 l 604 ls 605 git clone htpps://github.com/vaga/hugo-theme-m10c.git 606 git clone https://github.com/vaga/hugo-theme-m10c.git 607 ls 608 cd .. 609 hugo server -t m10c --buildDrafts 610 hugo server -t hugo-theme-m10c --buildDrafts 611 hugo new post/hello.md 612 hugo server -t m10c --buildDrafts 613 hugo server -t m10c --buildDrafts 614 hugo server -t hugo-theme-m10c --buildDrafts 615 hugo --theme=hugo-theme-m10c --baseUrl=&amp;quot;https://wantlogin.</description>
     </item>
     
   </channel>
