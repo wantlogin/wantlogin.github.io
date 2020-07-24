@@ -6,10 +6,19 @@
     <description>Recent content on zhanghaha</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 21 Jul 2020 23:29:26 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 25 Jul 2020 01:29:53 +0800</lastBuildDate>
     
 	<atom:link href="https://wantlogin.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Test</title>
+      <link>https://wantlogin.github.io/post/test/</link>
+      <pubDate>Sat, 25 Jul 2020 01:29:53 +0800</pubDate>
+      
+      <guid>https://wantlogin.github.io/post/test/</guid>
+      <description>测试图片内容</description>
+    </item>
     
     <item>
       <title>Hello</title>
