@@ -17,11 +17,13 @@
       <pubDate>Sun, 26 Jul 2020 22:43:49 +0800</pubDate>
       
       <guid>https://wantlogin.github.io/post/%E5%B8%B8%E7%94%A8%E5%B7%A5%E5%85%B7/</guid>
-      <description>测试
+      <description> 网站类
 应用图标：https://www.iconfont.cn/
 IDEA开发工具：https://www.jetbrains.com/zh-cn/
 颜色查询：https://colors.ichuantong.cn/
-阿里云：https://www.aliyun.com/</description>
+阿里云：https://www.aliyun.com/
+ pip换源文件
+# 文件路径： ~/.pip/pip.conf [global] index-url=http://mirrors.aliyun.com/pypi/simple/ [install] trusted-host=mirrors.aliyun.com </description>
     </item>
     
     <item>
