@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on wantlogin</title>
+    <title>Posts on </title>
     <link>https://wantlogin.github.io/post/</link>
-    <description>Recent content in Posts on wantlogin</description>
+    <description>Recent content in Posts on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 26 Jul 2020 22:43:49 +0800</lastBuildDate>
@@ -17,7 +17,8 @@
       <pubDate>Sun, 26 Jul 2020 22:43:49 +0800</pubDate>
       
       <guid>https://wantlogin.github.io/post/%E5%B8%B8%E7%94%A8%E5%B7%A5%E5%85%B7/</guid>
-      <description>应用图标：https://www.iconfont.cn/
+      <description>测试
+应用图标：https://www.iconfont.cn/
 IDEA开发工具：https://www.jetbrains.com/zh-cn/
 颜色查询：https://colors.ichuantong.cn/
 阿里云：https://www.aliyun.com/</description>
